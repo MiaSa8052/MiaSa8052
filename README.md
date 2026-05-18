@@ -1,59 +1,12 @@
-<!-- <h1 align="center"> Hi there, I am Tram 🐼 </h1>  
-Focus: Automation, Control Systems, Embedded Firmware, AIoT  
-
-
-![Language](https://img.shields.io/badge/Code-C/C++|Python|Assembly|VerilogHDL|Python-blue)  ![IoT](https://img.shields.io/badge/IoT-ESP32%20%7C%20Arduino-orange)  ![AI](https://img.shields.io/badge/AI-YOLOv8%20%7C%20OpenCV-red)  ![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Git-lightgrey)  
-
-😶‍🌫️<img src="https://komarev.com/ghpvc/?username=MiaSa8052&label=Profile%20views&color=0e76a8&style=flat" alt="MiaSa8052" />
----
-## 💁‍♀️ About Me
-- ![Student](https://img.shields.io/badge/-Electronic%20Physics%20Student-green)  
-- ![Automation](https://img.shields.io/badge/-Automation%20%26%20Control%20Systems-blue)  
-- ![Firmware](https://img.shields.io/badge/-Embedded%20Firmware%20Development-orange)  
-- ![Integration](https://img.shields.io/badge/-Hardware--Software%20Integration-lightgrey)  
-- ![IoT](https://img.shields.io/badge/-IoT%20%26%20Edge%20AI-red)  
-- ![Sensors](https://img.shields.io/badge/-Sensor%20%26%20Actuator%20Processing-yellow)  
-- ![ProblemSolving](https://img.shields.io/badge/-Problem%20Solving%20%26%20Debugging-purple)  
-- ![Research](https://img.shields.io/badge/-Scientific%20Research%20%26%20Documentation-teal)  
-
-
----
-
-## 💻 Technical Skills
-- **Programming**: C/C++, Python, Assembly, Verilog HDL  
-- **Embedded & IoT**: ESP32, ESP8266, Arduino, Jetson Nano, FPGA  
-- **Automation & Simulation**: Proteus, Wokwi, Microchip Studio, Arduino IDE, Quartus, Docker, Git  
-- **Control & Processing**: Control logic, sensor signal processing, actuator control  
-- **AI & Computer Vision**: YOLOv8, SAHI, OpenCV, OCR  
-
----
-
-## 🚀 Projects
-
-### Rice Leaf Disease Detection System
-- Built a high-precision detection system using YOLOv8 on 15,000 images.  
-- Implemented SAHI for small-object detection and AdamW-to-SGD optimization.  
-- Deployed with Docker and Jupyter Lab for GPU acceleration.  
-
-### License Plate Detection System
-- Developed automatic license plate recognition using OpenCV and OCR on Jetson Nano.  
-- Designed gear-driven gate and implemented C firmware for GPIO motor control.  
-
-### Smart Home IoT System
-- Designed an end-to-end IoT system with ESP8266 and ThingsBoard Cloud.  
-- Developed firmware in C to control DC motors and relays for remote automation.  
-
----
-
-## 📫 Contact
-- Email: phanthiquynhtram2004@gmail.com 
-- GitHub: https://github.com/MiaSa8052 -->
 # Hi there, I'm Trâm 🐼  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</p>
+  <a href="mailto:phanthiquynhtram2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discordapp.com/users/samile_8052">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 
 
 😶‍🌫️<img src="https://komarev.com/ghpvc/?username=MiaSa8052&label=Profile%20views&color=0e76a8&style=flat" alt="MiaSa8052" />
