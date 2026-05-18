@@ -14,7 +14,9 @@
 
 ## 🧠 Summary
 
-A dedicated and detail-oriented engineer with a strong focus on **Automation, Control Systems, Embedded Firmware, Hardware Design, and PCB Layout**. Follows a systematic approach to bridging the gap between intelligent software algorithms and physical edge devices.
+- Strong focus on **Automation, Control Systems, and Embedded Firmware**.  
+- Experience with hardware design, PCB layout, IoT integration, and AI applications.  
+- Passionate about bridging hardware–software integration and solving real-world problems.  
 
 ---
 
