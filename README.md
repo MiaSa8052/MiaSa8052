@@ -84,9 +84,10 @@
 ---
 
 ## 📚 Currently Learning
-- 🎛️ **Industrial Automation:** PLC programming and SCADA systems.
-- 🤖 **Advanced AI:** Edge AI optimization, model quantization, and neural network deployment on hardware accelerators.
-- 🗣️ **Language Proficiency:** Enhancing professional and technical English communication.
+- **How to learn to be Data Analyst** 
+- **Industrial Automation:** PLC programming and SCADA systems.
+- **Advanced AI:** Edge AI optimization, model quantization, and neural network deployment on hardware accelerators.
+- **Language Proficiency:** Enhancing professional and technical English communication.
 
 ---
 
