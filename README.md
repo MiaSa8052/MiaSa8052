@@ -105,7 +105,5 @@
 ---
 
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MiaSa8052&theme=onedark&row=1&column=8" 
-       alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=MiaSa8052&theme=radical" />
 </p>
